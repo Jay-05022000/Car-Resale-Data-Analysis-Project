@@ -21,6 +21,13 @@ Records: 17446
 Columns: 15
 
 
+Process Diagram:
+
+
+![Process Diagram](https://github.com/Jay-05022000/Car-Resale-Data-Analysis-Project/assets/110780565/a43f6ebc-0a50-456a-a7fb-37813497195f)
+
+
+
 Procedure:
 
 The project follows a systematic approach to draw conclusions in a chronological order:
