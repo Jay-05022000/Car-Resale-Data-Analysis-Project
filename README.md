@@ -10,7 +10,8 @@ Tools Used:
 
 1) AWS S3 (External Storage System): Utilized for secure and scalable storage of the dataset.
 2) Databricks: Employed for data ingestion, cleaning, transformation, and visualization tasks.
-3) PySpark (Programming Language): Leveraged for its powerful capabilities in distributed data processing.
+3) PySpark (Programming Language): For creating ETL data pipeline and data cleaning.
+4) SQL: For performing data analysis on Transformed data.
 
 Dataset:
 
